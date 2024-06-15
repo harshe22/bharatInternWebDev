@@ -1,0 +1,26 @@
+*{
+    font-family: 'Rubik Maps', system-ui;
+  }
+  .card-title{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    /* color:yellow; */
+  }
+  span{
+    align-self: flex-end;
+    
+  }
+  /*.card-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+  }
+  h5{
+    padding: 1rem 1rem;
+  } */
+  
+  main{
+    background-color: yellow;
+  }
